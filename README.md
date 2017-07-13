@@ -1,2 +1,2 @@
 # ProjectRaiseWebsite
-Project Raise – A dynamic teaching and learning solution for everyone
+An interactive, informative website highlighting the main features of the Raise iOS Application
